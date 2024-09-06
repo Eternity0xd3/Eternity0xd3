@@ -1,5 +1,6 @@
 # This is Eternity0 !
-#### ~~Ciallo～(∠・ω< )~~  Hello!!!
+#### ~~Ciallo～(∠・ω< )~~
+#### Hello!!!
 
 **I'm a senior high school student who...**
 
@@ -10,7 +11,7 @@
   ​  and to finish school works... ( ?_? )
 
 
-## Languages used
+## Languages
 
 + **Python**
 
@@ -39,7 +40,7 @@
 **I'll try to....**
 
 + design my own web blog.
-+ learn C (and C++ (and C#))
++ learn C (and C++ (maybe and C#))
 + BUY A NEW COMPUTER!!!
 
 ## What's more?
